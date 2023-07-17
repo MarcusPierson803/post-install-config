@@ -26,6 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA (service-level agreement)
 - Configure Help Topics
 
+In order to process the configuration steps, you will need to open osTicket with the username and password you created. 
+
 <h2>Configuration Steps</h2>
 
 <p>
